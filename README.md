@@ -59,4 +59,4 @@ The website is fully responsive and adapts to different screen sizes using media
 
 ## License
 
-This project is for educational purposes and is not intended for commercial use. All rights reserved.
+This project is for eucational purposes and is not intendded for commercial use. All rights reserved.
